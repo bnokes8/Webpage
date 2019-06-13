@@ -48,7 +48,7 @@
     font-family: 'Ubuntu Condensed', sans-serif;
     color: white;
 }
-/* center comumn styles */
+/* center column styles */
 .navigation-wrapper > .center-column{
     display: grid;
     grid-template: 1fr;
@@ -110,6 +110,7 @@
 
     
 }
+
     
 
 
